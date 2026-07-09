@@ -19,7 +19,7 @@
 			"antVersion": "latest",
 			"groovyVersion": "4.0.16"
 		},
-		"ghcr.io/devcontainers/features/node:1": {
+		"ghcr.io/devcontainers/features/node:2": {
 			"nodeGypDependencies": true,
 			"version": "lts",
 			"nvmVersion": "latest"
